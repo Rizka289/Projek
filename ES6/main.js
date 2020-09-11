@@ -10,7 +10,7 @@ const skills_holder = document.getElementById("Siswa");
 // user_place.innerHTML = "Hi," + user_logged;
 
 // var Myname = "Rizka Rachmawati";
-// Myname = "Lalu Irfi Andika Putra";
+// Myname = "Hayo";
 // console.log(Myname);
 
 // var Myname = ["BMW", "Mazda", "Toyota"];
@@ -34,14 +34,14 @@ const skills_holder = document.getElementById("Siswa");
 // const user_logged = "Rizka";
 // user_place.innerHTML = `Hi ${user_logged}`;
 
-// const apa = "Rizka Rachmawati";
-// console.log(apa);
+const apa = "Rizka Rachmawati";
+console.log(apa);
 
-// const apa = ["BMW", "Mazda", "Toyota"];
-// for (let i = 0; i < apa.length; i++) {
-//     console.log(apa[i]);
-// }
-// console.log(apa); // tidak bisa berjalan jika menggunakan let
+const apa = ["BMW", "Mazda", "Toyota"];
+for (let i = 0; i < apa.length; i++) {
+    console.log(apa[i]);
+}
+console.log(apa); // tidak bisa berjalan jika menggunakan let
 
 // objek literal (CART)
 // function addProduct(name, category) {
